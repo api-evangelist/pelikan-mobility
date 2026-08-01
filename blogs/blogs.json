@@ -1,0 +1,11 @@
+{
+  "repo": "pelikan-mobility",
+  "feeds": [
+    {
+      "source": "https://www.welcometothejungle.com/fr/companies/pelikan-mobility-1",
+      "error": "HTTPError"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}
