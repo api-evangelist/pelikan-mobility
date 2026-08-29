@@ -34,6 +34,9 @@ description: >-
   Ventures. It publishes a marketing and resources website but exposes no public API or developer
   surface at this time; this profile records its identity and web-domain security posture.
 url: https://raw.githubusercontent.com/api-evangelist/pelikan-mobility/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "It publishes a marketing and resources website but exposes no public API or developer surface at this time; this profile records its identity and web-domain security posture."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
